@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<Context>
+	<!-- DEV -->
+    <Resource
+        name="jdbc/db_local"
+        type="javax.sql.DataSource"
+        factory="com.trabajando.encryptor.EncryptedDataSourceFactory"
+        maxActive="100"
+        maxIdle="30"
+        maxWait="10000"
+        removeAbandoned="true"
+        removeAbandonedTimeout="60"
+        testOnBorrow="true"
+        validationQuery="SELECT 1"
+        driverClassName="com.mysql.jdbc.Driver"
+        url="jdbc:mysql://localhost:3306/hipicapp"
+        username="root" password="ae8d35af6fd2504394a65cf6128dc463"
+    />
+</Context>

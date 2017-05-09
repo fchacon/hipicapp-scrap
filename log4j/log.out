@@ -1,0 +1,154 @@
+[DEBUG] [01:21:47] (UserWS.java:login:26) ENTRO A LOGIN
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: false
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Boolean' value 'false' to type 'Boolean'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Boolean
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Byte'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:158)     Converted to Byte value '0'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value:  
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Character' value ' ' to type 'Character'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Character
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Double'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:158)     Converted to Double value '0.0'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Float'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:158)     Converted to Float value '0.0'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Integer'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Integer
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Long'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:158)     Converted to Long value '0'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Short'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:158)     Converted to Short value '0'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0.0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a BigDecimal
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'BigInteger' value '0' to type 'BigInteger'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a BigInteger
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: false
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Boolean' value 'false' to type 'Boolean'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Boolean
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Byte'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:158)     Converted to Byte value '0'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value:  
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Character' value ' ' to type 'Character'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Character
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Double'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:158)     Converted to Double value '0.0'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Float'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:158)     Converted to Float value '0.0'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Integer'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Integer
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Long'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:158)     Converted to Long value '0'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 0
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer' value '0' to type 'Short'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:158)     Converted to Short value '0'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: 
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'String' value '' to type 'String'
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Z@781f9364
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'boolean[]' value '[Z@781f9364' to type 'boolean[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a boolean[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [B@6105c7d8
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'byte[]' value '[B@6105c7d8' to type 'byte[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a byte[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [C@428367ab
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'char[]' value '[C@428367ab' to type 'char[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a char[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [D@410b2daa
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'double[]' value '[D@410b2daa' to type 'double[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a double[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [F@44e31542
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'float[]' value '[F@44e31542' to type 'float[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a float[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [I@1888c363
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'int[]' value '[I@1888c363' to type 'int[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a int[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [J@3ad3a52a
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'long[]' value '[J@3ad3a52a' to type 'long[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a long[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [S@1d008692
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'short[]' value '[S@1d008692' to type 'short[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a short[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.math.BigDecimal;@d82ea1e
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@d82ea1e' to type 'BigDecimal[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a BigDecimal[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.math.BigInteger;@78242c99
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@78242c99' to type 'BigInteger[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a BigInteger[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.lang.Boolean;@33dc3f69
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Boolean[]' value '[Ljava.lang.Boolean;@33dc3f69' to type 'Boolean[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Boolean[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.lang.Byte;@514dcfe1
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Byte[]' value '[Ljava.lang.Byte;@514dcfe1' to type 'Byte[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Byte[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.lang.Character;@c217a55
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Character[]' value '[Ljava.lang.Character;@c217a55' to type 'Character[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Character[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.lang.Double;@227f520b
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Double[]' value '[Ljava.lang.Double;@227f520b' to type 'Double[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Double[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.lang.Float;@28f9ed78
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Float[]' value '[Ljava.lang.Float;@28f9ed78' to type 'Float[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Float[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.lang.Integer;@3ac9905e
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Integer[]' value '[Ljava.lang.Integer;@3ac9905e' to type 'Integer[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Integer[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.lang.Long;@18c5ca99
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Long[]' value '[Ljava.lang.Long;@18c5ca99' to type 'Long[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Long[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.lang.Short;@11429373
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Short[]' value '[Ljava.lang.Short;@11429373' to type 'Short[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Short[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.lang.String;@497c12f2
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'String[]' value '[Ljava.lang.String;@497c12f2' to type 'String[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a String[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.lang.Class;@70bff38e
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Class[]' value '[Ljava.lang.Class;@70bff38e' to type 'Class[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Class[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.util.Date;@3a0c9cb8
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Date[]' value '[Ljava.util.Date;@3a0c9cb8' to type 'Date[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Date[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.util.Calendar;@616139ed
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Calendar[]' value '[Ljava.util.Calendar;@616139ed' to type 'Calendar[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Calendar[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.io.File;@7c945cbe
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'java.io.File[]' value '[Ljava.io.File;@7c945cbe' to type 'java.io.File[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a java.io.File[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.sql.Date;@32064ef4
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@32064ef4' to type 'java.sql.Date[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a java.sql.Date[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.sql.Time;@3a9d609d
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@3a9d609d' to type 'java.sql.Time[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a java.sql.Time[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.sql.Timestamp;@8d585b2
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@8d585b2' to type 'java.sql.Timestamp[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a java.sql.Timestamp[]
+[DEBUG] [01:21:47] (AbstractConverter.java:setDefaultValue:336) Setting default value: [Ljava.net.URL;@1542aa55
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'java.net.URL[]' value '[Ljava.net.URL;@1542aa55' to type 'java.net.URL[]'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a java.net.URL[]
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Long' value '47' to type 'Long'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Long
+[DEBUG] [01:21:47] (ConvertUtilsBean.java:convert:460) Convert string 'multiempresa95@trabajando.com' to class 'java.lang.String'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'String' value 'multiempresa95@trabajando.com' to type 'String'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'Long' value '1' to type 'Long'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:149)     No conversion required, value is already a Long
+[DEBUG] [01:21:47] (ConvertUtilsBean.java:convert:460) Convert string 'Chiacons SA' to class 'java.lang.String'
+[DEBUG] [01:21:47] (AbstractConverter.java:convert:127) Converting 'String' value 'Chiacons SA' to type 'String'
+[DEBUG] [02:28:34] (UserWS.java:login:26) ENTRO A LOGIN
+[DEBUG] [02:28:34] (UserWS.java:login:26) ENTRO A LOGIN
+[DEBUG] [02:30:36] (UserWS.java:login:26) ENTRO A LOGIN
+[DEBUG] [02:31:56] (UserWS.java:login:26) ENTRO A LOGIN
+[DEBUG] [02:33:24] (UserWS.java:login:26) ENTRO A LOGIN
+[DEBUG] [02:33:24] (UserWS.java:login:26) ENTRO A LOGIN
+[DEBUG] [02:36:18] (UserWS.java:login:26) ENTRO A LOGIN
+[DEBUG] [02:36:49] (UserWS.java:login:26) ENTRO A LOGIN
